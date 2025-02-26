@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038114534895",
+    "project_id": "clothify-cd392",
+    "storage_bucket": "clothify-cd392.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038114534895:android:81f485bdd7f1b4844f721a",
+        "android_client_info": {
+          "package_name": "com.example.clothify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdKgQqbrEsbPjX6nzNqw4uC6wpCKQlyIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
