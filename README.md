@@ -39,7 +39,7 @@ Whether you’re browsing for products, applying discounts, or finding store loc
 
 ## 📂 Project Structure  
 
-'''
+```bash
 app
 ├── data                     # API services, repositories, and local database
 ├── di                       # Dependency Injection setup
@@ -49,8 +49,7 @@ app
 ├── util                    # Utility classes and extensions
 ├── MainActivity.kt         # Main entry point of the app
 └── RootNavigationGraph.kt  # Navigation graph for handling app screens
-'''
----
+```
 
 ---
 
